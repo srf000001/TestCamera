@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\592a5eb8dd708baf61aa443f9a0c1f082ed93794\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\classes_114de269fdccb9d0458308c2e802e016147435bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\wrapper\dists\gradle-5.4.1-all\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_390a7990368e6c53a59f852dba00404a265ca7d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d060affb856f1a6a22bd0502eae331d919a5b7b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\classes_532ea80f79e7e2d6e1cd2a4e14926c11b121805e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\5b145610bfc90495c8022edb7e2419eda492266c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\classes_5836e48c6cec42ce7bddabd8f097eeb426903de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\45a639b0180608c5405a8ef42192fb19b9507f54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\classes_4bfa9428494b5a82c7b775d0661bf59092d065ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\8ef6f58d701cf466a13c73215fc1051fc6080740\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\classes_643528194d733c0124d6cbc0cf0b53b2e686a371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\wrapper\dists\gradle-5.4.1-all\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_4c7d37f69a44ecec5820afaaf7e58b8eff0754fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\cbc336aca4304ef408ae07505d227fadc35385ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\classes_4edfe5734da008a13c0b4464425686e733b38ccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\8a290e8abdeab70a077cc5e0cf81852d8f5f89bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\classes_646291238dfed9897ad2a4ab4030d5d5eb851094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e01ebb42b102a5d8decbabe64d6193f3e5988896\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\classes_f38902e31467cdfa56ffaf450d7c4b10b71253e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\2d4ea795fb17965a70191b359767fd064cdc4f9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\classes_c271d1630549542e71793b593a34e7c54fdc26d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\01ec7268e72a0b81c7d41624cbd5b2b516efb9ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TestSystemCamera-master\app\build\intermediates\pre-dexed\debug\classes_eb48e282c789e16a93b9d5aec42920976e43a498.jar" />
+    </item>
+
+</items>
